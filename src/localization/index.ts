@@ -6,6 +6,7 @@ export const langNames = {
   tr: '🇹🇷',
   ru: '🇷🇺',
   'zh-cn': '🇨🇳',
+  'zh-tw': '🇹🇼',
   uk: '🇺🇦',
   ka: '🇬🇪',
   ko: '🇰🇷',
@@ -15,6 +16,7 @@ export const langNames = {
   'fa': '🇮🇷',
   it: '🇮🇹',
   'ar': '🇸🇦',
+  bn: '🇧🇩',
 };
 
 export const rtlSupported = ['fa', 'ar'];
